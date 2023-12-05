@@ -1,0 +1,26 @@
+button{
+    border: none;
+    background: none;
+    height: 60px;
+}
+button:hover{
+    border: none;
+    background: #8f4a4f;
+}
+
+.toolbar{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    align-items: center;
+
+    
+} 
+
+#editor{
+    max-width: 1000px;
+    margin: 10px auto;
+    height: 200px;
+    border: 1px solid #000000;
+    padding: 10px;
+}
